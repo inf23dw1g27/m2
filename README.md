@@ -29,6 +29,15 @@ A API vai ser útil para o gerenciamento de tarefas, esta API vai permitir aos u
 * NodeJS
 * Postman
 
+* ### Project presentation
+* Chapter 1: [Project presentation](doc/c1.md)
+### Resources
+* Chapter 2: [Resources](doc/c2.md)
+### Product
+* Chapter 3: [Product](doc/c3.md)
+### Presentation
+* Chapter 4: [Presentation](doc/c4.md)
+
 ## Team
 * Tiago Leal Baganha [@TiagoBaganha](https://github.com/TiagoBaganha),
 * Vítor Duarte Ferreira [@VítorFerreira](https://github.com/Duarte35),
