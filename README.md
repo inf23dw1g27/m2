@@ -1,6 +1,6 @@
 # API Gestor de Tarefas
 
-Repository to host the project developed for 'Desenvlvimento Web I', a 2^nd^ year subject at Umaia. Developed by Group 27 : [@TiagoBaganha](https://github.com/TiagoBaganha), [@VítorFerreira](https://github.com/Duarte35).
+Repository to host the project developed for 'Desenvlvimento Web I', a 2^nd^ year subject at Umaia. Developed by Group 27 : [@TiagoBaganha](https://github.com/TiagoBaganha), [@JoãoSá](https://github.com/Joaosa330), [@VítorFerreira](https://github.com/Duarte35).
 Repositório: [Repositório](https://github.com/inf23dw1g27).
 ## Short theme description
 
@@ -11,6 +11,7 @@ A API vai ser útil para o gerenciamento de tarefas, esta API vai permitir aos u
 ## Repository organization
     
 * **Controllers code** is in the [Controllers folder](Controllers/).
+* **Service code** is in the [service folder](service/).
 * Relatório is in the [Relatório folder](Relatório/).
 * Postman [Postman Collection](PostmanCollection/)
 
@@ -30,4 +31,5 @@ A API vai ser útil para o gerenciamento de tarefas, esta API vai permitir aos u
 
 ## Team
 * Tiago Leal Baganha [@TiagoBaganha](https://github.com/TiagoBaganha),
-* Vítor Duarte Ferreira [@VítorFerreira](https://github.com/Duarte35).
+* Vítor Duarte Ferreira [@VítorFerreira](https://github.com/Duarte35),
+* Joao Pedro Ferreira Sá [@JoãoSá](https://github.com/Joaosa330).
