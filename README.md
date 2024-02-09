@@ -5,7 +5,7 @@ Repositório: [Repositório](https://github.com/inf23dw1g27).
 ## Short theme description
 
 Desenvolvimento de uma Plataforma de Gerenciamento de Tarefas
-O API vai ser útil para o gerenciamento de tarefas, esta API vai permitir aos utilizadores criar, verificar, atualizar,modificar e excluir tarefas, além de possibilitar a organização dessas tarefas em categorias. 
+A API vai ser útil para o gerenciamento de tarefas, esta API vai permitir aos utilizadores criar, verificar, atualizar,modificar e excluir tarefas, além de possibilitar a organização dessas tarefas em categorias. 
 
 
 ## Repository organization
