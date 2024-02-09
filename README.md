@@ -10,7 +10,7 @@ A API vai ser útil para o gerenciamento de tarefas, esta API vai permitir aos u
 
 ## Repository organization
     
-* **Source code** is in the [src folder](src/).
+* **Controllers code** is in the [Controllers folder](Controllers/).
 * Relatório is in the [Relatório folder](Relatório/).
 * Postman [Postman Collection](PostmanCollection/)
 
