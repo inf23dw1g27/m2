@@ -12,7 +12,7 @@ A API vai ser útil para o gerenciamento de tarefas, esta API vai permitir aos u
     
 * **Controllers code** is in the [Controllers folder](Controllers/).
 * **Service code** is in the [service folder](service/).
-* Relatório is in the [Relatório folder](Relatório/).
+* Relatório is in the [Relatório fille](Relatório).
 * Postman [Postman Fille](api_Tasks.postman_collection.json)
 
 ## Technologies
