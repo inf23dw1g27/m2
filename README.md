@@ -30,11 +30,11 @@ A API vai ser útil para o gerenciamento de tarefas, esta API vai permitir aos u
 * Postman
 
 * ### Project presentation
-* Chapter 1: [Project presentation](Apresentaçaao/apresentaçãoprojeto)
+* Chapter 1: [Project presentation](Apresentaçaao/apresentaçãoprojeto.md)
 ### Resources
-* Chapter 2: [Resources](Apresentaçaao/Resources)
+* Chapter 2: [Resources](Apresentaçaao/Resources.md)
 ### Product
-* Chapter 3: [Product](Apresentaçaao/Product)
+* Chapter 3: [Product](Apresentaçaao/Product.md)
 
 
 ## Team
